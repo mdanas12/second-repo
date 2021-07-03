@@ -2,7 +2,6 @@
 
 body{
     background-color: wheat;
-    overflow: hidden;
 }
 strong{
     font-size: 60px;
@@ -25,6 +24,9 @@ p{
     text-align: justify;
     margin: 20px 30px 20px 40px;
     padding: 20px;
+}
+div{
+    overflow: hidden;
 }
 #a{
     background-color: yellowgreen;
