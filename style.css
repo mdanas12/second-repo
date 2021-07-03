@@ -5,4 +5,12 @@ h1{
     background-color: thistle;
     text-align: center;
     color: red;
+    text-transform: capitalize;
+    font-size: 60px;
+}
+p{
+    background-color: royalblue;
+    text-transform: capitalize;
+    border: 8px solid red;
+    border-radius: 12px;
 }
