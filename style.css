@@ -13,4 +13,6 @@ p{
     text-transform: capitalize;
     border: 8px solid red;
     border-radius: 12px;
+    font-size: 22px;
+    color: white;
 }
