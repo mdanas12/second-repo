@@ -25,12 +25,23 @@ p{
     margin: 20px 30px 20px 40px;
     padding: 20px;
 }
+b{
+    text-align: center;
+    text-align: justify;
+    font-size: 40px;
+    color: white;
+    background-color: blue;
+    width: 70%;
+    height: 30%;
+    border:6px solid blueviolet;
+}
 div{
-    overflow: hidden;
+    
+    display: inline-block;
 }
 #a{
     background-color: yellowgreen;
     font-size: 23px;
     text-align:justify;
-    display: inline-block;
+     
 }
