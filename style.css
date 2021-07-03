@@ -25,7 +25,7 @@ p{
     margin: 20px 30px 20px 40px;
     padding: 20px;
 }
-b{
+.anas{
     text-align: center;
     text-transform: capitalize;
     font-size: 40px;
@@ -36,7 +36,7 @@ b{
     border:6px solid blueviolet;
 }
 div{
-    
+    margin: 30px;
     display: inline-block;
 }
 #a{
